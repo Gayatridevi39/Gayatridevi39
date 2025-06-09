@@ -38,7 +38,7 @@ I believe in building tools that **empower people**, **simplify tasks**, and **d
 
 - 🔗 [My Portfolio on Youware](https://www.youware.com/project/hu20fe29up)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gayatri-devi-kajuluri/)  
-- 💻 [GitHub Projects](https://github.com/yourusername) 
+- 💻 [GitHub Projects](https://github.com/Gayatridevi39) 
 
 ---
 
