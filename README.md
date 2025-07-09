@@ -46,7 +46,7 @@ I'm Gayatri — a developer and AI enthusiast passionate about building intellig
 
 ## 📌 **Current Focus**
 
-- Learning **Retrieval-Augmented Generation (RAG)** and **LLM fine-tuning ** 
+- Learning **Retrieval-Augmented Generation (RAG)** and **LLM fine-tuning** 
 - Building production-ready AI assistants  
 - Improving UI/UX in AI apps using Streamlit
 
