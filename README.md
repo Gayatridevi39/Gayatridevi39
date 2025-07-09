@@ -5,36 +5,54 @@
 
 🎯 **About Me**
 
-I'm Gayatri Devi Kajuluri — a developer and aspiring AI Engineer who enjoys turning complex problems into intelligent, real-world solutions.  
-I’ve worked on impactful projects like:
+I'm Gayatri — a developer and AI enthusiast passionate about building intelligent systems that create meaningful impact. I specialize in transforming complex real-world problems into deployable, human-centered solutions using LLMs and modern AI frameworks.
 
-- 🧠 **MediMind** — an AI-powered medical report summarizer using LangChain, Gemini API & Streamlit  
-- 🤖 **CareerBot** — a personalized career assistant using Gemini & real-time content retrieval  
-- 💸 **ChitFund Manager** — a Firebase-based dashboard for managing auctions and member dues
+### 🚀 Projects That Reflect My Vision
 
-I believe in building tools that **empower people**, **simplify tasks**, and **drive real-world value** — not just experiments.
+- **🧠 MediMind**  
+  AI-powered medical report summarizer built with **LangChain**, **Gemini API**, and **Streamlit**.  
+  Helps doctors and patients interpret complex reports in seconds.
+
+- **🤖 CareerBot**  
+  Personalized AI career assistant using Gemini and vector search (ChromaDB).  
+  Offers role guidance and skill-matching based on user input and uploaded PDFs.
+
+- **💸 ChitFund Manager**  
+  Firebase-backed Streamlit dashboard for managing group auctions, dues, and member data.  
+  Designed to simplify chit fund management for local communities.
+
+> I believe in building tools that are useful, scalable, and empathetic — not just demos or academic exercises.
 
 ---
 
 🛠 **Technologies & Tools I Work With**
 
-- **AI/LLM Frameworks**: LangChain, Gemini API, Prompt Engineering  
-- **Frontend**: Streamlit, HTML, CSS  
-- **Backend**: Firebase, FastAPI  
-- **Languages**: Python, SQL
-- **Other Tools**: Git, Postman, VS Code, dotenv
+- **AI/LLM Frameworks:**
+  LangChain, Gemini API, Prompt Engineering, RAG
+  
+- **Frontend & UI:**
+  Streamlit, HTML, CSS, Responsive UI Design
+  
+- **Backend & Databases:**
+   Firebase, FastAPI, Session State
+   
+- **Languages:**
+   Python, SQL
+  
+- **Dev Tools:**
+   Git & GitHub, Postman, VS Code, dotenv
 
 ---
 
-📌 **Current Focus**
+## 📌 **Current Focus**
 
-- Learning Retrieval-Augmented Generation (RAG) and LLM fine-tuning  
+- Learning **Retrieval-Augmented Generation (RAG)** and **LLM fine-tuning ** 
 - Building production-ready AI assistants  
 - Improving UI/UX in AI apps using Streamlit
 
 ---
 
-🌐 **Portfolio & Links**
+## 🌐 **Portfolio & Links**
 
 - 🔗 [My Portfolio on Youware](https://www.youware.com/project/hu20fe29up)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gayatri-devi-kajuluri/)  
@@ -42,25 +60,19 @@ I believe in building tools that **empower people**, **simplify tasks**, and **d
 
 ---
 
-📬 **Let’s Connect!**
+## 📬 **Let’s Connect!**
 
+I'm actively looking for:
+
+- 🎯 **AI/ML internships**
+- 🤝 **Collaborations on GenAI projects**
+- 💡 Conversations with like-minded AI engineers & researchers
+
+> _“I don't just write code — I build thoughtful, real-world AI solutions with empathy and logic.”_ ✨
+
+---
+
+⭐ _Thank you for visiting my profile. Feel free to explore my projects or reach out to connect!_
 I’m open to internship opportunities, collaborations on AI projects, or just connecting with like-minded tech enthusiasts.
 
-> *"I don't just write code. I solve real-world problems with empathy and logic."* ✨
 
-
-
-<!--
-**Gayatridevi39/Gayatridevi39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
