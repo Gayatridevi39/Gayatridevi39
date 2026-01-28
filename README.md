@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I’m Gayatri Devi Kajuluri 👋</h1>
 
-<p align="center">
-  <strong>Data Analyst | Business-Focused Analytics | Turning Data into Executive Decisions</strong>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=2E9EF7&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Business-Focused+Analytics;Turning+Data+into+Executive-Ready+Decisions" alt="Typing SVG" />
+</div>
+
+
 
 <p align="center">
   <!-- LinkedIn -->
@@ -15,7 +17,7 @@
   &nbsp;&nbsp;&nbsp;
 
   <!-- Email -->
-  <a href="mailto:gayatridevikajuluri@gmail.com">
+  <a href="mailto:kajulurigayatridevi@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/new-post.png">
       <img src="https://img.icons8.com/ios-filled/50/EA4335/new-post.png" width="44" height="44"/>
@@ -130,7 +132,7 @@ I prioritize:
 ## 🛠️ Technical Skill Set
 
 ### 📌 Data & Programming
-- SQL (CTEs, Window Functions, Joins, Optimization)
+- SQL (CTEs, Window Functions, Joins, Query Optimization, Analytical SQL)
 - Python (Pandas, NumPy)
 - Excel (Advanced formulas, financial modeling)
 
@@ -168,18 +170,15 @@ I prioritize:
 
 ## 🌱 Currently Focused On
 
-- Advanced SQL optimization & analytics engineering concepts  
+- Advanced SQL optimization & analytics engineering patterns   
 - Business analytics case studies (Retail, FinTech, Operations)  
-- Executive dashboard design patterns  
-- Translating analytics into **C-level narratives**
+- Executive dashboard design for decision-makers   
+- Translating analytics into **C-level narratives and trade-offs**
 
 ---
 
-## 🌐 Portfolio & Professional Links
-
-- 🔗 **Portfolio:** https://www.youware.com/project/hu20fe29up  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/gayatri-devi-kajuluri/  
-- 💻 **GitHub:** https://github.com/Gayatridevi39  
+## 🌐 Professional Presence
+All links are available at the top of this profile for quick access.
 
 ---
 
