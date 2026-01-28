@@ -1,127 +1,181 @@
-<h1 align="center">Hi, I'm Gayatri Devi Kajuluri 👋</h1>
+<h1 align="center">Hi there, I’m Gayatri Devi Kajuluri 👋</h1>
+
 <p align="center">
-  <strong>Data Analyst Turning Complex Data into Executive-Ready Decisions</strong>
+  <strong>Data Analyst | Business-Focused Analytics | Turning Data into Executive Decisions</strong>
 </p>
 
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gayatri-devi-kajuluri/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png">
+      <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="44" height="44"/>
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Email -->
+  <a href="mailto:gayatridevikajuluri@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/new-post.png">
+      <img src="https://img.icons8.com/ios-filled/50/EA4335/new-post.png" width="44" height="44"/>
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://www.youware.com/project/hu20fe29up" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/domain.png">
+      <img src="https://img.icons8.com/ios-filled/50/34A853/domain.png" width="44" height="44"/>
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/Gayatridevi39" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/github.png">
+      <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="44" height="44"/>
+    </picture>
+  </a>
+</p>
+
+
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
-I am a **results-driven Data Analyst** focused on converting complex, ambiguous data into **clear business decisions** that drive **revenue growth, cost optimization, and risk reduction**.
+I am a **business-first Data Analyst** specializing in transforming **complex, high-volume data** into **clear, executive-ready insights** that drive **profitability, efficiency, and risk reduction**.
 
-My work sits at the intersection of **data, business strategy, and storytelling** — where dashboards are not reports, but **decision engines for leadership**.
+I operate at the intersection of:
+- **Data Analytics**
+- **Business Strategy**
+- **Decision Intelligence**
+
+My dashboards are not reports — they are **decision systems designed for leadership**.
+
+I focus on answering:
+- *Where are we losing money?*
+- *What decisions move the needle?*
+- *What risks are invisible today but costly tomorrow?*
 
 ---
 
-## 📊 Featured Projects
+## 🧠 Analytics Philosophy
 
-### 🔹 Omnichannel Holiday Retail Analytics  
-**Tech:** SQL · Python · Power BI
+> **“Data only creates value when it changes a decision.”**
 
-**Critical Business Problem**
-- Strong holiday revenue, but **profit erosion due to high returns and write-offs**
-- Leadership lacked visibility into **where losses originate** and **which levers protect margin**
+I prioritize:
+- Business impact over vanity metrics  
+- Root-cause analysis over surface trends  
+- Clarity over complexity  
+- Decisions over dashboards  
 
-**What I Did (Analytical Outcomes)**
-- Quantified **$2.12M total write-off loss** with **11.95% return rate**
-- Identified **Wrong Size, Changed Mind, Late Delivery** as primary loss drivers
-- Proved **fulfillment & service-level failures** dominate return losses
-- Measured **60.33% resale recovery**, offsetting ~60% of return impact
-- Revealed **WEB channel** as highest revenue contributor **and highest return-risk**
-- Showed **short-span campaigns (1–7 days)** generate **62.87% of total net profit**
-- Built **Net Revenue, Contribution Margin, Revenue-at-Risk** metrics beyond topline revenue
-- Flagged **holiday campaigns as top ROI drivers**, clearance campaigns as profit destroyers
+---
+
+## 📊 Featured Analytics Projects
+
+### 🔹 Omnichannel Retail Profitability & Returns Analytics  
+**Domain:** Retail · E-commerce · Finance  
+**Tech:** SQL · Python · Power BI  
+
+**Business Challenge**
+- Strong holiday revenue masked **margin erosion from returns and write-offs**
+- Leadership lacked visibility into **where profit leakage originated**
+
+**Key Analytical Contributions**
+- Quantified **$2.12M total write-off losses** with an **11.95% return rate**
+- Identified top return drivers: **Wrong Size, Changed Mind, Late Delivery**
+- Demonstrated **60.33% resale recovery**, offsetting return impact
+- Exposed **WEB channel** as both highest revenue and highest return-risk channel
+- Proved **short-span campaigns (1–7 days)** generated **62.87% of total net profit**
+- Designed CFO-grade metrics:
+  - Net Revenue
+  - Contribution Margin
+  - Revenue-at-Risk
 
 **Business Outcome**
 - Shifted leadership focus from **revenue growth → profit protection**
-- Identified **preventable return drivers**, unlocking margin improvement opportunities
-- Informed **campaign strategy optimization** (holiday-led, short-span focus)
-- Delivered a **CFO-ready decision dashboard** to reduce write-offs and improve ROI
-
-> *I don’t just analyze sales — I protect profit, quantify risk, and guide decisions.*
+- Enabled **campaign optimization and return reduction strategies**
+- Delivered a **decision-ready executive dashboard**
 
 ---
 
-### 🔹 FinTech Project Management Analytics  
-**Tech:** SQL · Python · Power BI
+### 🔹 FinTech Portfolio & Risk Analytics  
+**Domain:** FinTech · Program Management · Finance  
+**Tech:** SQL · Python · Power BI  
 
-**Critical Business Problem**
-- No real-time visibility into **budget overruns, delivery delays, and risk concentration**
-- Planned budgets failed to reflect **true financial exposure**
-- Lack of prioritization for **high-risk, high-impact projects**
+**Business Challenge**
+- No real-time visibility into **budget overruns, delivery delays, or financial risk**
+- Planned budgets underestimated **true capital exposure**
 
-**What I Did (Analytical Outcomes)**
-- Analyzed **$105.5M planned vs $54.7M actual spend** across multi-year initiatives
-- Forecasted **$153.8M total budget**, identifying a **$48.3M funding gap**
-- Quantified portfolio risk:
-  - **25% High-risk | 47% Medium-risk | 28% Low-risk**
-  - **13.9% delayed projects | 11.1% not started**
-- Identified **schedule slippage drivers**, with delays up to **32 days**
-- Isolated **project-level budget overruns**, exposing **$1.12M+ cumulative overrun**
-- Built **year-wise planned vs actual spend trends**, revealing systemic underestimation
-- Created **risk-prioritized views** to surface delayed, high-budget initiatives
+**Key Analytical Contributions**
+- Analyzed **$105.5M planned vs $54.7M actual spend**
+- Forecasted **$153.8M total budget**, revealing a **$48.3M funding gap**
+- Built portfolio risk segmentation:
+  - 25% High-risk
+  - 47% Medium-risk
+  - 28% Low-risk
+- Identified **schedule slippage up to 32 days**
+- Exposed **$1.12M+ cumulative project overruns**
 
 **Business Outcome**
-- Enabled executives to **see true financial exposure early**
-- Supported **capital reallocation away from high-risk, delayed projects**
-- Improved **delivery predictability and budget control** at portfolio level
-- Equipped CFO / PMO teams with a **decision-ready dashboard** for funding prioritization
-
-> *I didn’t just track projects — I exposed financial risk and enabled proactive decisions.*
+- Enabled **early financial risk detection**
+- Supported **capital reallocation decisions**
+- Improved **delivery predictability and budget governance**
 
 ---
 
-## 🧠 Core Skills
+## 🛠️ Technical Skill Set
 
-**Data & Analytics**
-- SQL (CTEs, Window Functions, Joins)
+### 📌 Data & Programming
+- SQL (CTEs, Window Functions, Joins, Optimization)
 - Python (Pandas, NumPy)
-- Excel (Advanced analysis)
+- Excel (Advanced formulas, financial modeling)
 
-**BI & Visualization**
-- Power BI (DAX, KPI design, drill-downs, executive dashboards)
+### 📊 BI & Visualization
+- Power BI (DAX, KPI modeling, executive dashboards)
+- Data storytelling & stakeholder-ready visuals
 
-**Analytics Techniques**
-- Data Cleaning & Validation  
-- Cohort & Funnel Analysis  
-- A/B Testing  
-- KPI Framework Design  
+### 📈 Analytics Techniques
+- KPI Framework Design
+- Funnel & Cohort Analysis
+- Financial & Risk Analytics
+- Data Cleaning & Validation
+- A/B Testing Foundations
 
-**Tools**
-- dbt  
-- Git & GitHub  
-- VS Code  
-- Streamlit  
-
----
-
-## 📈 Analytics Philosophy
-
-> **“Dashboards don’t create value.  
-> Decisions do.  
-> My job is to make the decision obvious.”**
-
-I focus on:
-- **Why it matters**, not just what happened  
-- **Business consequences**, not vanity metrics  
-- **Clarity over complexity**
+### ⚙️ Tools & Workflow
+- Git & GitHub
+- dbt (Foundational)
+- VS Code
+- Streamlit (Exploratory apps)
 
 ---
 
-## 🏆 Highlights
+## 🏆 Professional Highlights
 
-- 🥇 **1st Prize – National Tech Showcase**  
-  Presented complex AI & biotech concepts to **500+ stakeholders**, demonstrating executive-level storytelling
+- 🥇 **1st Prize – National-Level Technical Presentation**  
+  Presented advanced AI & biotech concepts to **500+ attendees**, demonstrating executive-level communication
 
-- 🎤 **Public Speaking & Stakeholder Communication**  
-  Hosted national seminars; recognized for clarity and insight articulation
+- 🎤 **Stakeholder Communication & Public Speaking**  
+  Hosted national seminars and technical events with clarity and authority
 
 - 🧩 **Leadership & Execution**  
-  Led **10+ large-scale events**, improving engagement by **35%** through data-driven planning
+  Led **10+ institutional events**, improving engagement by **35%** through data-driven planning
 
 ---
 
-## 🌐 Portfolio & Links
+## 🌱 Currently Focused On
+
+- Advanced SQL optimization & analytics engineering concepts  
+- Business analytics case studies (Retail, FinTech, Operations)  
+- Executive dashboard design patterns  
+- Translating analytics into **C-level narratives**
+
+---
+
+## 🌐 Portfolio & Professional Links
 
 - 🔗 **Portfolio:** https://www.youware.com/project/hu20fe29up  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/gayatri-devi-kajuluri/  
@@ -131,8 +185,11 @@ I focus on:
 
 ## 📬 Let’s Connect
 
-I’m open to **full-time Data Analyst roles**, internships, and collaborations where data is used to **drive real business outcomes**.
+I’m actively open to:
+- **Full-time Data Analyst roles**
+- **Business Analytics / BI roles**
+- **High-impact analytics teams where decisions matter**
 
-> *“I don’t report metrics — I reveal what drives profit, risk, and growth.”*
+> *I don’t report metrics — I surface profit drivers, risks, and opportunities.*
 
-⭐ Thanks for visiting — feel free to explore my projects or reach out to connect.
+⭐ If you’re a recruiter or hiring manager, explore my projects — they’re built for real business decisions.
